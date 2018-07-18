@@ -22,4 +22,9 @@
     <color name="theme_accent">#FFC107</color>
     <color name="theme_text_color_primary">#212121</color>
     <color name="theme_text_color_secondary">#757575</color>
+
+    <color name="max_width_ll_color">#fff</color>
+    <color name="meta_bar_color">#333</color>
+    <color name="article_byline_color">#8fff</color>
+
 </resources>
